@@ -2,9 +2,9 @@ let resumeData = {
     //"imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Carina Ullman",
     "role": "Full Stack Web Developer / Nurse / Military Veteran",
-    "linkedinId":"Your LinkedIn Id",
+  
     "skypeid": "Your skypeid",
-    "roleDescription": "  I will be graduating from DU's Full Stack Bootcamp in March 2020 and I am excited to cross over into the tech world.",
+    "roleDescription":"  I will be graduating from DU's Full Stack Bootcamp in March 2020 and I am excited to cross over into the tech world.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"I am an Operating Room Nurse and Military Veteran.  I am currently a DU bootcamp student studying Full Stack Web Development.",
+    "aboutme":"I am a student currently enrolled in DU's full stack web development bootcamp.  On my off time I am a mom to a special needs kiddo.  I enjoy snowboarding, yoga, going to the gym, hiking (all things active), traveling and seeing obscure bands at small venues. I am excited to cross over into the tech world!",
     //"address":"India",
     //"website":"https://rbhatia46.github.io",
     "education":[
