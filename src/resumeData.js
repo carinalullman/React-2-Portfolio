@@ -23,7 +23,8 @@ let resumeData = {
         // }
       ],
     "aboutme":"I am a student currently enrolled in DU's full stack web development bootcamp.  On my off time I am a mom to a special needs kiddo.  I enjoy snowboarding, yoga, going to the gym, hiking (all things active), traveling and seeing obscure bands at small venues. I am excited to cross over into the tech world!",
-    //"address":"India",
+    "address":"CarinaL.Ullman@gmail.com",
+    "phone": "(720) 375-6458",
     //"website":"https://rbhatia46.github.io",
     "education":[
       {
