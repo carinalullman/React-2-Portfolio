@@ -45,7 +45,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Parker Adventist Hospital",
-        "specialization":"Operating Room",
+        "specialization":"Operating Room Nurse",
         "MonthOfLeaving":"Currently Employed",
         // "YearOfLeaving":"2018",
         // "Achievements":"Some Achievements"
