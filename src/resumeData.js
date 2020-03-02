@@ -53,7 +53,7 @@ let resumeData = {
       {
         "CompanyName":"Kronos, Inc",
         "specialization":"Sales Support Specialist",
-        "MonthOfLeaving":"Feb 2006-",
+        "MonthOfLeaving":"Feb 2006 -",
         "YearOfLeaving":"Jun 2014",
         // "Achievements":"Some Achievements"
         
@@ -61,7 +61,7 @@ let resumeData = {
       {
         "CompanyName":"United States Air Force",
         "specialization":"Health Services Management",
-        "MonthOfLeaving":"Feb 1996-",
+        "MonthOfLeaving":"Feb 1996 -",
         "YearOfLeaving":"Oct 2002",
         // "Achievements":"Some Achievements"
         
