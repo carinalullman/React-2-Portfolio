@@ -95,21 +95,8 @@ let resumeData = {
         "description":"mobileapp",  
         "imgurl":"images/portfolio/project2.png"
       },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project5",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project6",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+     
+      
     ],
     // "testimonials":[
     //   {
