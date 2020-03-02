@@ -53,16 +53,16 @@ let resumeData = {
       {
         "CompanyName":"Kronos, Inc",
         "specialization":"Sales Support Specialist",
-        // "MonthOfLeaving":"Jan",
-        // "YearOfLeaving":"2018",
+        "MonthOfLeaving":"Feb 2006-",
+        "YearOfLeaving":"Jun 2014",
         // "Achievements":"Some Achievements"
         
       },
       {
         "CompanyName":"United States Air Force",
         "specialization":"Health Services Management",
-        // "MonthOfLeaving":"Jan",
-        // "YearOfLeaving":"2018",
+        "MonthOfLeaving":"Feb 1996-",
+        "YearOfLeaving":"Oct 2002",
         // "Achievements":"Some Achievements"
         
       }
@@ -92,6 +92,11 @@ let resumeData = {
       },
       {
         "name":"project3",
+        "description":"mobileapp",  
+        "imgurl":"images/portfolio/project2.png"
+      },
+      {
+        "name":"project4",
         "description":"mobileapp",  
         "imgurl":"images/portfolio/project2.png"
       },
